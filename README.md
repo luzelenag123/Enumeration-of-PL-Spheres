@@ -11,6 +11,7 @@ These tools are used to produce all simplicial complexes that are connected to d
 - Python ≥ 3.10 (if running Sage through `sage -python`)
 
 ## TO-DOs
+- Include a few formal definitions: Simplicial complex, PL-spheres, PL-manifold, bistellar flip.
 - Add more documentation about the datasets and the .sage files in README.md
 - Include proper research citations in README.md
 - Implement the functions in lexicographic_enumaration.sage, which are an implementation of Algorithm 4.4. 
